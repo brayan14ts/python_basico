@@ -1,2 +1,2 @@
 # python_basico
-Empezando python de cero
+Empezando python de cero...
